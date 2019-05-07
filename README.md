@@ -23,17 +23,17 @@ Download the repository. Run 'npm install' in your repository folder to install 
 First, cd into the repository in your terminal. Next, run the command 'node bamazonCustomer.js'. This will prompt the MySQL connection
 and display the storefront to you with currenty inventory as such:
 
-![GitHub Logo](/images/bamazon1.png)
+!(/images/bamazon1.png)
 
 Next, respond to the question of what you would like to purchase by answering by item name, and how many you would like to purchase
 by entering the number, or else enter 'Q' to quit:
 
-![GitHub Logo](/images/bamazon2.png)
+!(/images/bamazon2.png)
 
 Finally, as seen here, if you attempt to purchase more items than in inventory, or an item not in inventory, you will be denied and 
 told this is not a valid selection. Additionally, as seen in these screenshots, the MySQL database updates in real-time.
 
-![GitHub Logo](/images/bamazon3.png)
+!(/images/bamazon3.png)
 
 ## Built With
 
