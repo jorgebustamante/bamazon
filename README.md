@@ -24,6 +24,7 @@ First, cd into the repository in your terminal. Next, run the command 'node bama
 and display the storefront to you with currenty inventory as such:
 
 ![Terminal image](/images/bamazon1.PNG)
+
 Next, respond to the question of what you would like to purchase by answering by item name, and how many you would like to purchase
 by entering the number, or else enter 'Q' to quit:
 
